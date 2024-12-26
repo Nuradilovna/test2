@@ -1,0 +1,11 @@
+#fife{
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}
+#box {
+    display: none;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
